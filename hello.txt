@@ -1,3 +1,7 @@
 hello, git, hello atguigu!
 my first commit git file
+<<<<<<< HEAD
 hot-fix branch test
+=======
+hot-fix test
+>>>>>>> hot-fix
